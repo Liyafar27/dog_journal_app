@@ -1,16 +1,14 @@
 # dog_journal_app
 
-A new Flutter project.
+apk https://drive.google.com/file/d/1ab5nriEmahCPmdXEK08HuACB03G16-66/view?usp=sharing
+<p align="left">
+video     https://drive.google.com/file/d/1Sf9ej1rnQz62ucdirdi7Cidf1jdhr0ap/view?usp=sharing
+    
+</p>
 
-## Getting Started
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Liyafar27/my_storage/refs/heads/master/Screenshot_1746692183.png" width="250" alt="accessibility text">  
+    <img src="https://raw.githubusercontent.com/Liyafar27/my_storage/refs/heads/master/Screenshot_1746692176.png" width="250" alt="accessibility text">
+    <img src="https://raw.githubusercontent.com/Liyafar27/my_storage/refs/heads/master/dog-journal_SfdYpJua.mp4" width="250" alt="accessibility text">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
