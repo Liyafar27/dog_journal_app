@@ -1,8 +1,7 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 import 'package:hive/hive.dart';
-
-import '../../services/hive_service.dart';
+import 'package:dog_journal_app/services/hive_service.dart';
 
 part 'dog_note_bloc.freezed.dart';
 
