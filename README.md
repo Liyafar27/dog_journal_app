@@ -27,7 +27,7 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/Liyafar27/my_storage/refs/heads/master/Screenshot_1746692183.png" width="250" alt="accessibility text">  
     <img src="https://raw.githubusercontent.com/Liyafar27/my_storage/refs/heads/master/Screenshot_1746692176.png" width="250" alt="accessibility text">
-    <img src="https://raw.githubusercontent.com/Liyafar27/my_storage/refs/heads/master/dog-journal_SfdYpJua.mp4" width="250" alt="accessibility text">
+    <img src="https://raw.githubusercontent.com/Liyafar27/my_storage/refs/heads/master/dog-journal_SfdYpJua-ezgif.com-speed.gif" width="250" alt="accessibility text">
 
 </p>
 ---
@@ -35,10 +35,9 @@
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/dog-journal.git
+git clone https://github.com/Liyafar27/dog-journal.git
 cd dog-journal
 flutter pub get
 flutter run
     
-</p>
 
